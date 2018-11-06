@@ -17,9 +17,9 @@ Data was obtained in a .csv format.
 
 ## Exploratory Data Analysis
 
-[EDA Notebook for MTA data](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/EDA%20MTA%20data.ipynb)
+[EDA Notebook for MTA data](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/EDA%20MTA%20data.ipynb)
 
-[EDA Notebook for NOAA Weather data](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/EDA%20NOAA%20Weather%20data.ipynb)
+[EDA Notebook for NOAA Weather data](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/EDA%20NOAA%20Weather%20data.ipynb)
 
 
 The combined dataset from Feb 2014 to Sep 2018 contained information for each turnstile for each of the over 400 individual stations int he system in the almost 5 year period. Totally over 46 million rows with the each of the eleven columns described above, this is over 500 million raw points of data.  Systemwide the work week has the highest daily ridership with weekend days having close to half the ridership of a workweek day. 
@@ -47,7 +47,7 @@ When looking at Daily Weather data from NOAA Precipitation and Snow looked to ha
 
 ## Modeling
 
-[Modeling Notebook](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/Prince%20St%20Modeling.ipynb)
+[Modeling Notebook](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/Prince%20St%20Modeling.ipynb)
 
 All statistical analysis was done on a DELL XPS 15 9570 with Intel(R) Core(TM) i7-8750H CPU running Microsoft Windows 10 Home.
 
