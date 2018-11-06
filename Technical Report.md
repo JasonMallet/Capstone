@@ -17,37 +17,37 @@ Data was obtained in a .csv format.
 
 ## Exploratory Data Analysis
 
-[EDA Notebook for MTA data](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/EDA%20MTA%20data.ipynb)
+[EDA Notebook for MTA data](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/EDA%20MTA%20data.ipynb)
 
-[EDA Notebook for NOAA Weather data](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/EDA%20NOAA%20Weather%20data.ipynb)
+[EDA Notebook for NOAA Weather data](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/EDA%20NOAA%20Weather%20data.ipynb)
 
 
 The combined dataset from Feb 2014 to Sep 2018 contained information for each turnstile for each of the over 400 individual stations int he system in the almost 5 year period. Totally over 46 million rows with the each of the eleven columns described above, this is over 500 million raw points of data.  Systemwide the work week has the highest daily ridership with weekend days having close to half the ridership of a workweek day. 
 
 Systemwide Entrances by Day of the Week
 
-![System Day of Week](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/A%20MTA%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
+![System Day of Week](https://github.com/JasonMallet/Capstone/blob/master/Visuals/A%20MTA%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
 
 
 Systemwide Entrances by Date
 
-![System Date](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/MTA%20Subway%20Entrances%20by%20Date.PNG)
+![System Date](https://github.com/JasonMallet/Capstone/blob/master/Visuals/MTA%20Subway%20Entrances%20by%20Date.PNG)
 
 Focusing only only Prince St trims the rows down to only approximately 760,000 or around 1.64% of the total systemwide dataset. There were 15 individual turnstills in use over the observation period of which two were either fully broken or disabled as they showed counts of 0 for the entirety of the appearance in the data set.  While two others had their couters reset during observation period.  This resulted in negative differences when calulating Hourly block instance counts.   Prince St ridership does not follow the same pattern as the rest of the system in that it does not experiance a large drop off for Saturday Which is actually busier than Monday, and while Sunday is still the day with the lowest ridership it is only around a third instead of the half of the whole system.  
 
 Prince St Entrances by Day of the Week
-![Prince St Day of Week](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/A%20Prince%20St%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
+![Prince St Day of Week](https://github.com/JasonMallet/Capstone/blob/master/Visuals/A%20Prince%20St%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
 
 When looking at Daily Weather data from NOAA Precipitation and Snow looked to have more impact on ridership than temperature. 
 
 ![Prince St Entrances by Day of week PRCP](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Prince%20St%20Day%20of%20Week%20with%20Precip.PNG)
 
 
-![Prince St Entrances by Day of week SNOW](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Prince%20St%20Day%20of%20Week%20with%20Snow.PNG)
+![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Snow.PNG)
 
 ## Modeling
 
-[Modeling Notebook](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Notebooks/Prince%20St%20Modeling.ipynb)
+[Modeling Notebook](https://github.com/JasonMallet/Capstone/blob/master/Notebooks/Prince%20St%20Modeling.ipynb)
 
 All statistical analysis was done on a DELL XPS 15 9570 with Intel(R) Core(TM) i7-8750H CPU running Microsoft Windows 10 Home.
 
@@ -59,11 +59,11 @@ ARIMA and Linder Regresion Models were used to predict Ridership
 
 Without weather data the model was able to predict Entrances to Prince Street, which has an average of close to 15,000 per day with a RSME on the Test set of 1686 and R2 score of 41.9% 
 
-![Ridge Base](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20base.PNG)
+![Ridge Base](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20base.PNG)
 
 while with weather data included it was a RSME of 1546 with and R2 of 50.6% on the Test
 
-![Ridge Weather](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20weather.PNG)
+![Ridge Weather](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20weather.PNG)
 
 
 ## Future Steps
