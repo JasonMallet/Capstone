@@ -31,7 +31,7 @@ Systemwide Entrances by Day of the Week
 
 Systemwide Entrances by Date
 
-![System Date](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/MTA%20Subway%20Entrances%20by%20Date.PNG)
+![System Date](https://github.com/JasonMallet/Capstone/blob/master/Visuals/MTA%20Subway%20Entrances%20by%20Date.PNG)
 
 Focusing only only Prince St trims the rows down to only approximately 760,000 or around 1.64% of the total systemwide dataset. There were 15 individual turnstills in use over the observation period of which two were either fully broken or disabled as they showed counts of 0 for the entirety of the appearance in the data set.  While two others had their couters reset during observation period.  This resulted in negative differences when calulating Hourly block instance counts.   Prince St ridership does not follow the same pattern as the rest of the system in that it does not experiance a large drop off for Saturday Which is actually busier than Monday, and while Sunday is still the day with the lowest ridership it is only around a third instead of the half of the whole system.  
 
@@ -43,7 +43,7 @@ When looking at Daily Weather data from NOAA Precipitation and Snow looked to ha
 ![Prince St Entrances by Day of week PRCP](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Prince%20St%20Day%20of%20Week%20with%20Precip.PNG)
 
 
-![Prince St Entrances by Day of week SNOW](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Prince%20St%20Day%20of%20Week%20with%20Snow.PNG)
+![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Snow.PNG)
 
 ## Modeling
 
@@ -59,11 +59,11 @@ ARIMA and Linder Regresion Models were used to predict Ridership
 
 Without weather data the model was able to predict Entrances to Prince Street, which has an average of close to 15,000 per day with a RSME on the Test set of 1686 and R2 score of 41.9% 
 
-![Ridge Base](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20base.PNG)
+![Ridge Base](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20base.PNG)
 
 while with weather data included it was a RSME of 1546 with and R2 of 50.6% on the Test
 
-![Ridge Weather](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20weather.PNG)
+![Ridge Weather](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Ridge%20Real%20vs%20Predicted%20weather.PNG)
 
 
 ## Future Steps
