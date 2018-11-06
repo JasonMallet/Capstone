@@ -43,7 +43,7 @@ When looking at Daily Weather data from NOAA Precipitation and Snow looked to ha
 ![Prince St Entrances by Day of week PRCP](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Rain.PNG)
 
 
-![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Snow.PNG)
+![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Rain.PNG)
 
 ## Modeling
 
