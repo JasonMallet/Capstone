@@ -40,10 +40,10 @@ Prince St Entrances by Day of the Week
 
 When looking at Daily Weather data from NOAA Precipitation and Snow looked to have more impact on ridership than temperature. 
 
-![Prince St Entrances by Day of week PRCP](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/Rain.PNG)
+![Prince St Entrances by Day of week RAIN](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Rain.PNG)
 
 
-![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Snow.PNG)
+![Prince St Entrances by Day of week SNOW](https://github.com/JasonMallet/Capstone/blob/master/Visuals/Prince%20St%20Day%20of%20Week%20with%20Snow.PNG)
 
 ## Modeling
 
