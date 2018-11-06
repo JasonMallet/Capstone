@@ -26,7 +26,7 @@ The combined dataset from Feb 2014 to Sep 2018 contained information for each tu
 
 Systemwide Entrances by Day of the Week
 
-![System Day of Week](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/A%20MTA%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
+![System Day of Week](https://github.com/JasonMallet/Capstone/blob/master/Visuals/A%20MTA%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
 
 
 Systemwide Entrances by Date
