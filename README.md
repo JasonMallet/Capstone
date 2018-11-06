@@ -19,7 +19,7 @@ All statistical analysis was done on a DELL XPS 15 9570 with Intel(R) Core(TM) i
 
 * **NLP**: [Spacy](https://spacy.io), [Textacy](https://github.com/chartbeat-labs/textacy), [scikit-learn](http://scikit-learn.org/stable/)
     
-* **Modeling**: [scikit-learn](http://scikit-learn.org/stable/) - Linear Regression, [statsmodel](https://www.statsmodels.org/stable/) - ARMA, [Keras](https://keras.io/) - Neural Network
+* **Modeling**: [scikit-learn](http://scikit-learn.org/stable/) - Regression, [statsmodel](https://www.statsmodels.org/stable/) - ARMA, [Keras](https://keras.io/) - Neural Network
     
 * **Data Management**: [numpy](http://www.numpy.org/), [pandas](https://pandas.pydata.org), [dateutil](https://dateutil.readthedocs.io/en/stable/)
 
