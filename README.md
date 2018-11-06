@@ -11,7 +11,7 @@ How much does weather data improve ridership predictions on the New York City su
 
 ## Technical Report
 
-An in-depth discussion of this project is found in the [technical report]().
+An in-depth discussion of this project is found in the [technical report](https://github.com/JasonMallet/Capstone/blob/master/Technical%20Report.md).
 
 ## Technologies Used
 
