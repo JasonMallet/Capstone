@@ -36,7 +36,7 @@ Systemwide Entrances by Date
 Focusing only only Prince St trims the rows down to only approximately 760,000 or around 1.64% of the total systemwide dataset. There were 15 individual turnstills in use over the observation period of which two were either fully broken or disabled as they showed counts of 0 for the entirety of the appearance in the data set.  While two others had their couters reset during observation period.  This resulted in negative differences when calulating Hourly block instance counts.   Prince St ridership does not follow the same pattern as the rest of the system in that it does not experiance a large drop off for Saturday Which is actually busier than Monday, and while Sunday is still the day with the lowest ridership it is only around a third instead of the half of the whole system.  
 
 Prince St Entrances by Day of the Week
-![Prince St Day of Week](https://git.generalassemb.ly/JasonMallet/Prince-St/blob/master/Visuals/A%20Prince%20St%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
+![Prince St Day of Week](https://github.com/JasonMallet/Capstone/blob/master/Visuals/A%20Prince%20St%20Subway%20Entrance%20by%20Day%20of%20Week.PNG)
 
 When looking at Daily Weather data from NOAA Precipitation and Snow looked to have more impact on ridership than temperature. 
 
